@@ -21,4 +21,8 @@ public class ChristmasClass
 	public void m4(){
 		System.out.println("divali celebration done ");
 	}
+	@Test
+	public void m5(){
+		System.out.println("divali celebration over ");
+	}
 }
