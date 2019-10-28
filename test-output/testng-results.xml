@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="347" started-at="2019-10-28T08:34:20Z" finished-at="2019-10-28T08:34:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="347" started-at="2019-10-28T08:34:20Z" finished-at="2019-10-28T08:34:20Z">
+      <class name="christmasPackage.ChristmasClass">
+        <test-method status="PASS" signature="m1()[pri:0, instance:christmasPackage.ChristmasClass@7f9a81e8]" name="m1" duration-ms="108" started-at="2019-10-28T14:04:20Z" finished-at="2019-10-28T14:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:christmasPackage.ChristmasClass@7f9a81e8]" name="m2" duration-ms="14" started-at="2019-10-28T14:04:20Z" finished-at="2019-10-28T14:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:christmasPackage.ChristmasClass@7f9a81e8]" name="m3" duration-ms="11" started-at="2019-10-28T14:04:20Z" finished-at="2019-10-28T14:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m4()[pri:0, instance:christmasPackage.ChristmasClass@7f9a81e8]" name="m4" duration-ms="10" started-at="2019-10-28T14:04:20Z" finished-at="2019-10-28T14:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+      </class> <!-- christmasPackage.ChristmasClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
